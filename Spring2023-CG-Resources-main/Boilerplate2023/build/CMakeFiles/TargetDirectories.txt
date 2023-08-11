@@ -1,0 +1,9 @@
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/CMakeFiles/app.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/CMakeFiles/glad.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/CMakeFiles/edit_cache.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/CMakeFiles/rebuild_cache.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/ramandeep/Downloads/Spring2023-CG-Resources-main/Boilerplate2023/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir

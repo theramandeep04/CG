@@ -1,0 +1,11 @@
+Model Information:
+* title:	Triumph Spitfire MKIII
+* source:	https://sketchfab.com/3d-models/triumph-spitfire-mkiii-9c5c1a73f65046459051f9d0bf1132a0
+* author:	Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Triumph Spitfire MKIII" (https://sketchfab.com/3d-models/triumph-spitfire-mkiii-9c5c1a73f65046459051f9d0bf1132a0) by Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mr.Singh's Car Racing Game</title>
+    <script>
+      function LoadGame() {
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = "http://localhost:8080/dist/main.js";
+        document.getElementsByTagName("head")[0].appendChild(script);
+
+        document.querySelector(".button").remove();
+
+        const para = document.createElement("p");
+        para.innerHTML = "Loading ...";
+        para.id = "paragraph";
+        document.getElementsByTagName("body")[0].appendChild(para);
+      }
+    </script>
+    <style>
+      body {
+        margin: 0;
+        background-image: url("http://localhost:8080/src/assets/StartScreen.jpeg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+
+      .button {
+        display: inline-block;
+        padding: 15px 25px;
+        box-align: center;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #4caf50;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        width: 700px;
+        height: 100px;
+        position: absolute;
+        top: 87%;
+        left: 63%;
+      }
+
+      .button:hover {
+        background-color: #3e8e41;
+      }
+
+      .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+      .Sub {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      #paragraph {
+        position: absolute;
+        top: 70%;
+        left: 5%;
+        color: white;
+        font-size: 40px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="Main">
+      <div class="Sub">
+      </div>
+    </div>
+    <button class="button" onclick="LoadGame()">START</button>
+  </body>
+</html>
